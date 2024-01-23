@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosJavierOrozco
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS, CSS, HTML, PHP and Python
+- 🌱 I’m currently learning JS, CSS, HTML, PHP, Java and Python
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
